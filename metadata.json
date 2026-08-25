@@ -1,0 +1,6 @@
+{
+  "name": "AI Micro-Tool",
+  "description": "SEO optimized utility web app for content creators featuring YouTube Title Generator, Bio Generator, and Hashtag Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
